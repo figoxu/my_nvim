@@ -31,7 +31,7 @@ cmd+B 左视图Toggle
         "command": "vscode-neovim.stop",
     },
     {
-        "key": "ctrl+e"i,
+        "key": "ctrl+e",
         "command": "vscode-neovim.restart",
     }
 ]
