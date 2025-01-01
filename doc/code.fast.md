@@ -5,6 +5,9 @@ ctrl+1,ctrl+2,ctrl+num
 方式二
 option+cmd+ 方向 ( ← 或 →)
 
+## 关闭当前编辑器
+cmd+w
+
 ## 关闭当前tab
 cmd+W
 
