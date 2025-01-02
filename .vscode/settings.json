@@ -1,4 +1,5 @@
 {
+    "neovim.debug": false,
     "vscode-neovim.logOutputToConsole": false,
     "vscode-neovim.logLevel": "error",
     "vscode-neovim.notificationLevel": "none" ,

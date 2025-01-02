@@ -2,7 +2,7 @@
 let mapleader = " "
 let g:mapleader = " "
 let g:EasyMotion_show_on_maps = 0
-
+let g:vim_notify_level = 'none'
 " 修正插件安装路径
 call plug#begin('~/.config/nvim/plugged')
     Plug 'easymotion/vim-easymotion'
