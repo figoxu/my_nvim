@@ -40,5 +40,17 @@ cmd+B 左视图Toggle
 ]
 ```
 
+# 禁用弹出消息
+下面尝试未生效...
 
+打开 VSCode 设置 (使用 Cmd + ,)
+搜索 "neovim notification"
+找到 "VSCode Neovim > Notification Level" 选项
+将其设置为 "none"
 
+ "vscode-neovim.logLevel": "error",
+ "vscode-neovim.notificationLevel": "none" 
+ 
+ /Users/zhangxiazhen/Library/Application\ Support/Cursor/User/settings.json
+ 
+$(pwd)/.vscode/settings.json
